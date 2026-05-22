@@ -4,7 +4,7 @@
 
 # Hi 👋 there.
 
-I think &nbsp; **"Every big solution starts with a curious mind and a willingness to play."** &nbsp; :) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --*its original*
+I think &nbsp; **"Every big solution starts with a curious mind and a willingness to play."** &nbsp; :) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 > I am an undergraduate Computer Science student at **IIT Jammu** with a strong foundation in **C, C++ and Python**. I have a deep curiosity for solving problems — whether it's debugging tricky code, building computer vision systems, or exploring new technologies just to see how they work. I love turning ideas into real projects and am always looking for the next challenge to crack. Beyond tech, I enjoy **playing games**, **cricket**, **exploring new places and concepts**, and diving into anything that sparks my curiosity. For me, building something from scratch is not just coding — it's **play**.
 
@@ -69,7 +69,7 @@ I think &nbsp; **"Every big solution starts with a curious mind and a willingnes
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Shubham30116&label=Profile%20Views&color=00d4ff&style=flat-square)](https://github.com/Shubham30116)
 
-*`> Thanks for visiting! Drop a ⭐ if you find something useful!`*
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0e2a5c,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 </div>
