@@ -27,23 +27,14 @@ I'm a passionate Computer Science student with a love for building things with c
 
 ## 🛠️ My Toolkit
 
-I know about:
+## My toolkit
 
-| | | | | | | | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/) 
- C++ | [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) 
- Python | [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
- HTML | [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
- CSS | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) 
- Git | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) 
- GitHub | [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org/) 
- OpenCV | [![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/) 
- Anaconda | [![Pandas](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org/) 
- Pandas | [![Matplotlib](https://skillicons.dev/icons?i=matplotlib)](https://matplotlib.org/) 
- Matplotlib | [![Jupyter Notebook](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org/) 
- Jupyter Notebook | [![JupyterLab](https://skillicons.dev/icons?i=jupyter)](https://jupyterlab.readthedocs.io/) 
- JupyterLab |
+> I know about:
+
+| | | | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [![C++](https://techstack-generator.vercel.app/cpp-icon.svg)](https://isocpp.org/) <br> C++ | [![Python](https://techstack-generator.vercel.app/python-icon.svg)](https://www.python.org/) <br> Python | [![C](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/) <br> C | [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/) <br> Linux | [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) <br> HTML | [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) <br> CSS | [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/) <br> Figma | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) <br> Git |
+| [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org/) <br> OpenCV | [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/) <br> TensorFlow | [![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg)](https://pandas.pydata.org/) <br> Pandas | [![Docker](https://techstack-generator.vercel.app/docker-icon.svg)](https://www.docker.com/) <br> Docker | [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/) <br> PyTorch | [![Matplotlib](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg)](https://matplotlib.org/) <br> Matplotlib | [![Streamlit](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg)](https://streamlit.io/) <br> Streamlit | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) <br> GitHub |
 
 ## 📊 GitHub Stats
 
