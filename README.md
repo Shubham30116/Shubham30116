@@ -52,7 +52,7 @@ I think &nbsp; **"Every big solution starts with a curious mind and a willingnes
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| <a href="https://www.linkedin.com/in/shubhamangural/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48"/><br>LinkedIn</a> | <a href="https://x.com/angural_sh49961"><img src="https://skillicons.dev/icons?i=twitter" width="48"/><br>X / Twitter</a>  | <a href="https://github.com/Shubham30116"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</a> 
+| <a href="https://www.linkedin.com/in/shubhamangural/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48"/><br>LinkedIn</a> | <a href="https://x.com/angural_sh49961"><img src="https://skillicons.dev/icons?i=twitter" width="48"/><br>X / Twitter</a>  | <a href="https://github.com/Shubham30116"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub
 
 </div>
 
