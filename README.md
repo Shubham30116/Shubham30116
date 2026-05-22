@@ -28,51 +28,14 @@ I'm a passionate Computer Science student with a love for building things with c
 
 **Libraries & Tools:**
 
-## 🛠️ My Toolkit
+## My toolkit
 
+> I know about:
 
-
-
-
-
-  
-  
-
-
-  
-  
-
-
-  
-  
-
-
-  
-  
-
-
-  
-  
-
-
-  
-  
-
-
-  
-  
-
-
-  
-  
-
-
-  
-
-
-
-
----
+| | | | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [![C++](https://techstack-generator.vercel.app/cpp-icon.svg)](https://isocpp.org/) <br> C++ | [![Python](https://techstack-generator.vercel.app/python-icon.svg)](https://www.python.org/) <br> Python | | [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) <br> HTML | [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) <br> CSS | [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/) <br> Figma | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) <br> Git |
+| [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org/) <br> OpenCV | [![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg)](https://pandas.pydata.org/) <br> Pandas  [![Matplotlib](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg)](https://matplotlib.org/) <br> Matplotlib | | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) <br> GitHub |
 
 ## 📊 GitHub Stats
 
