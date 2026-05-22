@@ -29,9 +29,10 @@ I think &nbsp; **"Every big solution starts with a curious mind and a willingnes
 
 <div align="center">
 
-username=Shubham30116&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=a855f7&text_color=ffffff&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shubham30116&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=a855f7&text_color=ffffff&border_radius=10" height="165"/>
   &nbsp;
- username=Shubham30116&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham30116&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_radius=10" height="165"/>
+
 
 </div>
 
