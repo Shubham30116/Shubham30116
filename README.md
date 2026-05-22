@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Shubham%20Angural&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Undergrad%20%40%20IIT%20Jammu&descAlignY=58&descSize=20&descColor=ffffff&animation=twinkling" alt="header" width="100%"/>
+# 💻 Shubham Angural
+### `< CS Undergrad @ IIT Jammu />`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shubham+%F0%9F%91%8B;CS+Undergrad+%40+IIT+Jammu+%F0%9F%8E%93;Problem+Solver+%7C+Computer+Vision+%7C+DSA;Building+from+scratch+is+just+play+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shubham+%F0%9F%91%8B;CS+Undergrad+%40+IIT+Jammu+%F0%9F%8E%93;Problem+Solver+%7C+Computer+Vision+%7C+DSA;Building+from+scratch+is+just+play+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -93,8 +94,6 @@ me.say_hi()
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=twinkling" alt="footer" width="100%"/>
 
 *`> Thanks for visiting! Drop a ⭐ if you find something useful!`*
 
