@@ -25,22 +25,25 @@ I'm a passionate Computer Science student with a love for building things with c
 
 ## 🛠️ My Toolkit
 
+## 🛠️ My Toolkit
+
+I know about:
+
 | | | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [![C++](https://techstack-generator.vercel.app/cpp-icon.svg)](https://isocpp.org/) 
- C++ | [![Python](https://techstack-generator.vercel.app/python-icon.svg)](https://www.python.org/) 
+| [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/) 
+ C++ | [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) 
  Python | [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
  HTML | [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
  CSS | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) 
  Git | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) 
  GitHub | [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org/) 
  OpenCV | [![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/) 
- Anaconda | [![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg)](https://pandas.pydata.org/) 
- Pandas | [![Matplotlib](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg)](https://matplotlib.org/) 
- Matplotlib | [![Jupyter Notebook](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg)](https://jupyter.org/) 
- Jupyter Notebook | [![JupyterLab](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg)](https://jupyterlab.readthedocs.io/) 
+ Anaconda | [![Pandas](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org/) 
+ Pandas | [![Matplotlib](https://skillicons.dev/icons?i=matplotlib)](https://matplotlib.org/) 
+ Matplotlib | [![Jupyter Notebook](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org/) 
+ Jupyter Notebook | [![JupyterLab](https://skillicons.dev/icons?i=jupyter)](https://jupyterlab.readthedocs.io/) 
  JupyterLab |
-
 
 ## 📊 GitHub Stats
 
