@@ -32,10 +32,24 @@ I'm a passionate Computer Science student with a love for building things with c
 
 > I know about:
 
-| | | | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [![C++](https://techstack-generator.vercel.app/cpp-icon.svg)](https://isocpp.org/) <br> C++ | [![Python](https://techstack-generator.vercel.app/python-icon.svg)](https://www.python.org/) <br> Python | | [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) <br> HTML | [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) <br> CSS | [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/) <br> Figma | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) <br> Git |
-| [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org/) <br> OpenCV | [![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg)](https://pandas.pydata.org/) <br> Pandas  [![Matplotlib](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg)](https://matplotlib.org/) <br> Matplotlib | | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) <br> GitHub |
+## 🛠️ My Toolkit
+
+| | | | | | |
+|---|---|---|---|---|---|
+| [![C++](https://techstack-generator.vercel.app/cpp-icon.svg)](https://isocpp.org/) 
+ C++ | [![Python](https://techstack-generator.vercel.app/python-icon.svg)](https://www.python.org/) 
+ Python | [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+ HTML | [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+ CSS | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) 
+ Git | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) 
+ GitHub |
+| [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org/) 
+ OpenCV | [![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg)](https://pandas.pydata.org/) 
+ Pandas | [![Matplotlib](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg)](https://matplotlib.org/) 
+ Matplotlib | [![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/) 
+ Anaconda | [![Jupyter Notebook](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg)](https://jupyter.org/) 
+ Jupyter Notebook | [![JupyterLab](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg)](https://jupyterlab.readthedocs.io/) 
+ JupyterLab |
 
 ## 📊 GitHub Stats
 
