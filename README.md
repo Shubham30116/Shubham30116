@@ -43,15 +43,7 @@ I think &nbsp; **"Every big solution starts with a curious mind and a willingnes
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubham30116&theme=discord&no-frame=true&row=1&column=6&margin-w=10" />
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
