@@ -1,3 +1,7 @@
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e2a5c,100:00d4ff&height=200&section=header&text=Shubham%20Angural&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Undergrad%20%40%20IIT%20Jammu&descAlignY=58&descSize=20&descColor=00d4ff&animation=fadeIn"/>
+</div>
+
 # Hi 👋 there.
 
 I think &nbsp; **"Every big solution starts with a curious mind and a willingness to play."** &nbsp; :) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --*its original*
@@ -67,4 +71,5 @@ I think &nbsp; **"Every big solution starts with a curious mind and a willingnes
 
 *`> Thanks for visiting! Drop a ⭐ if you find something useful!`*
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0e2a5c,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 </div>
