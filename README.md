@@ -6,7 +6,7 @@
 
 I think &nbsp; **"Every big solution starts with a curious mind and a willingness to play."** &nbsp; :) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-> I am an undergraduate Computer Science student at **IIT Jammu** with a strong foundation in **C, C++ and Python**. I have a deep curiosity for solving problems — whether it's debugging tricky code, building computer vision systems, or exploring new technologies just to see how they work. I love turning ideas into real projects and am always looking for the next challenge to crack. Beyond tech, I enjoy **playing games**, **cricket**, **exploring new places and concepts**, and diving into anything that sparks my curiosity. For me, building something from scratch is not just coding — it's **play**.
+> I am an undergraduate Computer Science student with a strong foundation in **C, C++ and Python**. I have a deep curiosity for solving problems — whether it's debugging tricky code, building computer vision systems, or exploring new technologies just to see how they work. I love turning ideas into real projects and am always looking for the next challenge to crack. Beyond tech, I enjoy **playing games**, **cricket**, **exploring new places and concepts**, and diving into anything that sparks my curiosity. For me, building something from scratch is not just coding — it's **play**.
 
 ---
 
