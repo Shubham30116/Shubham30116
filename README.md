@@ -3,12 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e75b6&height=200&section=header&text=Shubham%20Angural&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Undergrad%20%40%20IIT%20Jammu&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <img src="https://komarev.com/ghpvc/?username=Shubham30116&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamangural/)
-&nbsp;
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/angural_sh49961)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:2024ucs0111@iitjammu.ac.in)
 
 </div>
 
@@ -71,24 +65,13 @@ I love turning ideas into real projects and am always looking for the next chall
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/Shubham30116/Shubham30116/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamangural/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/angural_sh49961)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2024ucs0111@iitjammu.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubham30116)
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <a href="https://www.linkedin.com/in/shubhamangural/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48"/><br>LinkedIn</a> | <a href="https://x.com/angural_sh49961"><img src="https://skillicons.dev/icons?i=twitter" width="48"/><br>X / Twitter</a> | <a href="mailto:2024ucs0111@iitjammu.ac.in"><img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/><br>Gmail</a> | <a href="https://github.com/Shubham30116"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</a> |
 
 </div>
 
