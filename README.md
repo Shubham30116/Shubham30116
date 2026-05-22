@@ -17,9 +17,8 @@ I'm a **2nd year Computer Science undergraduate at IIT Jammu** with a strong fou
 I love turning ideas into real projects and am always looking for the next challenge to crack. Beyond tech, I enjoy **playing games**, **cricket**, **exploring new places and concepts**, and diving into anything that sparks my curiosity. For me, building something from scratch is not just coding — it's **play**.
 
 - 🎓 **2nd Year CS** @ IIT Jammu (2024 Batch)
-- 🔭 Currently working on **Computer Vision projects**
-- 🌱 Currently learning **Machine Learning & Data Structures**
-- 💬 Ask me about **C++, Python, OpenCV, Problem Solving**
+- 🌱 Currently learning **Data Structures & Algorithms**
+- 💬 Ask me about **C++, Python, Problem Solving**
 - 🏏 Fun fact: I debug code and bat sixes with the same focus!
 
 ---
