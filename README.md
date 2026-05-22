@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1117,60:003300,100:00ff41&height=220&section=header&text=Shubham%20Angural&fontSize=52&fontColor=00ff41&fontAlignY=40&desc=%3C%20CS%20Undergrad%20%40%20IIT%20Jammu%20%2F%3E&descAlignY=62&descSize=20&descColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:1a0533,70:0e2a5c,100:00d4ff&height=220&section=header&text=Shubham%20Angural&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=%3C%20CS%20Undergrad%20%40%20IIT%20Jammu%20%2F%3E&descAlignY=62&descSize=20&descColor=ffffff&animation=fadeIn" />
 
-<img src="https://komarev.com/ghpvc/?username=Shubham30116&label=Profile%20Views&color=00ff41&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Shubham30116&label=Profile%20Views&color=00d4ff&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -52,15 +52,15 @@ me.say_hi()
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham30116&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham30116&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=a855f7&text_color=ffffff&border_radius=10" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham30116&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham30116&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_radius=10" height="165"/>
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham30116&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00cc33&currStreakLabel=00ff41" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Shubham30116&hide_border=true&background=0d1117&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff&border_radius=10" height="165"/>
 
 </div>
 
@@ -70,7 +70,7 @@ me.say_hi()
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubham30116&theme=matrix&no-frame=true&row=1&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubham30116&theme=discord&no-frame=true&row=1&column=6&margin-w=10" />
 
 </div>
 
@@ -82,7 +82,7 @@ me.say_hi()
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| <a href="https://www.linkedin.com/in/shubhamangular/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48"/><br>LinkedIn</a> | <a href="https://x.com/angural_sh49961"><img src="https://skillicons.dev/icons?i=twitter" width="48"/><br>X / Twitter</a> | <a href="mailto:2024ucs0111@iitjammu.ac.in"><img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/><br>Gmail</a> | <a href="https://github.com/Shubham30116"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</a> |
+| <a href="https://www.linkedin.com/in/shubhamangural/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48"/><br>LinkedIn</a> | <a href="https://x.com/angural_sh49961"><img src="https://skillicons.dev/icons?i=twitter" width="48"/><br>X / Twitter</a> | <a href="mailto:2024ucs0111@iitjammu.ac.in"><img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/><br>Gmail</a> | <a href="https://github.com/Shubham30116"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</a> |
 
 </div>
 
@@ -90,7 +90,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:003300,100:0d1117&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:1a0533,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
 *`> Thanks for visiting! Drop a ⭐ if you find something useful!`*
 
