@@ -1,24 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e75b6&height=200&section=header&text=Shubham%20Angural&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Undergrad%20%40%20IIT%20Jammu&descAlignY=58&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1117,60:003300,100:00ff41&height=220&section=header&text=Shubham%20Angural&fontSize=52&fontColor=00ff41&fontAlignY=40&desc=%3C%20CS%20Undergrad%20%40%20IIT%20Jammu%20%2F%3E&descAlignY=62&descSize=20&descColor=ffffff&animation=fadeIn" />
 
-<img src="https://komarev.com/ghpvc/?username=Shubham30116&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Shubham30116&label=Profile%20Views&color=00ff41&style=flat-square" alt="profile views" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-> *"Every big solution starts with a curious mind and a willingness to play."*
+```python
+class ShubhamAngural:
+    def __init__(self):
+        self.name        = "Shubham Angural"
+        self.university  = "IIT Jammu"
+        self.year        = "2nd Year CSE (2024 Batch)"
+        self.languages   = ["C", "C++", "Python"]
+        self.interests   = ["Problem Solving", "Computer Vision", "DSA"]
+        self.hobbies     = ["Cricket 🏏", "Gaming 🎮", "Exploring new tech 🔭"]
+        self.motto       = "Every big solution starts with a curious mind and a willingness to play."
 
-I'm a **2nd year Computer Science undergraduate at IIT Jammu** with a strong foundation in **C, C++, and Python**. I have a deep curiosity for solving problems — whether it's debugging tricky code, building computer vision systems, or exploring new technologies just to see how they work.
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something cool together.")
 
-I love turning ideas into real projects and am always looking for the next challenge to crack. Beyond tech, I enjoy **playing games**, **cricket**, **exploring new places and concepts**, and diving into anything that sparks my curiosity. For me, building something from scratch is not just coding — it's **play**.
+me = ShubhamAngural()
+me.say_hi()
+```
 
-- 🎓 **2nd Year CS** @ IIT Jammu (2024 Batch)
-- 🌱 Currently learning **Data Structures & Algorithms**
-- 💬 Ask me about **C++, Python, Problem Solving**
+- 🔭 Currently working on **Computer Vision projects**
+- 🌱 Currently learning **Machine Learning & Data Structures**
+- 💬 Ask me about **C++, Python, OpenCV, Problem Solving**
 - 🏏 Fun fact: I debug code and bat sixes with the same focus!
 
 ---
@@ -40,15 +52,15 @@ I love turning ideas into real projects and am always looking for the next chall
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham30116&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham30116&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham30116&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham30116&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" height="165"/>
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham30116&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham30116&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00cc33&currStreakLabel=00ff41" height="165"/>
 
 </div>
 
@@ -58,7 +70,7 @@ I love turning ideas into real projects and am always looking for the next chall
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubham30116&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubham30116&theme=matrix&no-frame=true&row=1&column=6&margin-w=10" />
 
 </div>
 
@@ -70,7 +82,7 @@ I love turning ideas into real projects and am always looking for the next chall
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| <a href="https://www.linkedin.com/in/shubhamangural/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48"/><br>LinkedIn</a> | <a href="https://x.com/angural_sh49961"><img src="https://skillicons.dev/icons?i=twitter" width="48"/><br>X / Twitter</a> | <a href="mailto:2024ucs0111@iitjammu.ac.in"><img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/><br>Gmail</a> | <a href="https://github.com/Shubham30116"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</a> |
+| <a href="https://www.linkedin.com/in/shubhamangular/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48"/><br>LinkedIn</a> | <a href="https://x.com/angural_sh49961"><img src="https://skillicons.dev/icons?i=twitter" width="48"/><br>X / Twitter</a> | <a href="mailto:2024ucs0111@iitjammu.ac.in"><img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/><br>Gmail</a> | <a href="https://github.com/Shubham30116"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</a> |
 
 </div>
 
@@ -78,8 +90,8 @@ I love turning ideas into real projects and am always looking for the next chall
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1a1b27,100:0d1117&height=100&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:003300,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
-*Thanks for visiting! Drop a ⭐ if you find something useful!*
+*`> Thanks for visiting! Drop a ⭐ if you find something useful!`*
 
 </div>
