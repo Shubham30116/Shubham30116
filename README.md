@@ -1,46 +1,14 @@
-<div align="center">
+# Hi 👋 there.
 
-# 💻 Shubham Angural
-### `< CS Undergrad @ IIT Jammu />`
+I think &nbsp; **"Every big solution starts with a curious mind and a willingness to play."** &nbsp; :) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --*its original*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shubham+%F0%9F%91%8B;CS+Undergrad+%40+IIT+Jammu+%F0%9F%8E%93;Problem+Solver+%7C+Computer+Vision+%7C+DSA;Building+from+scratch+is+just+play+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Shubham30116&label=Profile%20Views&color=00d4ff&style=flat-square)](https://github.com/Shubham30116)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```python
-class ShubhamAngural:
-    def __init__(self):
-        self.name        = "Shubham Angural"
-        self.university  = "IIT Jammu"
-        self.year        = "2nd Year CSE (2024 Batch)"
-        self.languages   = ["C", "C++", "Python"]
-        self.interests   = ["Problem Solving", "Computer Vision", "DSA"]
-        self.hobbies     = ["Cricket 🏏", "Gaming 🎮", "Exploring new tech 🔭"]
-        self.motto       = "Every big solution starts with a curious mind and a willingness to play."
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something cool together.")
-
-me = ShubhamAngural()
-me.say_hi()
-```
-
-- 🔭 Currently working on **Computer Vision projects**
-- 🌱 Currently learning **Machine Learning & Data Structures**
-- 💬 Ask me about **C++, Python, OpenCV, Problem Solving**
-- 🏏 Fun fact: I debug code and bat sixes with the same focus!
+> I am an undergraduate Computer Science student at **IIT Jammu** with a strong foundation in **C, C++ and Python**. I have a deep curiosity for solving problems — whether it's debugging tricky code, building computer vision systems, or exploring new technologies just to see how they work. I love turning ideas into real projects and am always looking for the next challenge to crack. Beyond tech, I enjoy **playing games**, **cricket**, **exploring new places and concepts**, and diving into anything that sparks my curiosity. For me, building something from scratch is not just coding — it's **play**.
 
 ---
 
 ## 🛠️ My Toolkit
+
+> I know about:
 
 <div align="center">
 
@@ -94,6 +62,8 @@ me.say_hi()
 ---
 
 <div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Shubham30116&label=Profile%20Views&color=00d4ff&style=flat-square)](https://github.com/Shubham30116)
 
 *`> Thanks for visiting! Drop a ⭐ if you find something useful!`*
 
