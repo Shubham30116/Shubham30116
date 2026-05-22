@@ -1,38 +1,34 @@
-# Hi 👋 I'm Shubham Angural
+# Hi 👋 there.
 
-### 🎓 2nd Year CS Student @ IIT Jammu
+**I think   "Every big solution starts with a curious mind and a willingness to play."   :)                                                 --its original**
 
----
-
-> *"The best way to predict the future is to create it."*
-
-I'm a passionate Computer Science student with a love for building things with code. I enjoy working on data-driven projects, computer vision, and exploring the intersection of mathematics and programming.
-
-- 🔭 Currently exploring **Computer Vision & Data Science**
-- 🌱 Learning **Machine Learning** and deepening my C++ skills
-- 💡 Interested in **open-source contribution** and **competitive programming**
-- 📫 Reach me at: 2024ucs0111@iitjammu.ac.in
-- 🐦 Twitter/X: [@angural_sh49961](https://twitter.com/angural_sh49961)
+> I am an undergraduate Computer Science student at IIT Jammu with a strong foundation in C, C++ and Python. I have a deep curiosity for solving problems — whether it's debugging tricky code, building computer vision systems, or exploring new technologies just to see how they work. I love turning ideas into real projects and am always looking for the next challenge to crack. Beyond tech, I enjoy playing games, exploring new places and concepts, and diving into anything that sparks my curiosity. For me, building something from scratch is not just coding — it's play.
 
 ---
 
-
-
-
-
-
-
-
 ## 🛠️ My Toolkit
-
-## 🛠️ My Toolkit
-
-## My toolkit
 
 > I know about:
 
+| | | | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/) 
+ C++ | [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) 
+ Python | [![C](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/) 
+ C | [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+ HTML | [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+ CSS | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) 
+ Git | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) 
+ GitHub | [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org/) 
+ OpenCV |
+| [![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/) 
+ Anaconda | [![Pandas](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org/) 
+ Pandas | [![Matplotlib](https://skillicons.dev/icons?i=matplotlib)](https://matplotlib.org/) 
+ Matplotlib | [![Jupyter Notebook](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org/) 
+ Jupyter Notebook | [![JupyterLab](https://skillicons.dev/icons?i=jupyter)](https://jupyterlab.readthedocs.io/) 
+ JupyterLab | | | |
 
- [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/) <br> C++
+---
 
 ## 📊 GitHub Stats
 
@@ -40,6 +36,7 @@ I'm a passionate Computer Science student with a love for building things with c
 
 
   
+   
   
 
 
@@ -61,8 +58,10 @@ I'm a passionate Computer Science student with a love for building things with c
 
 
   
+    
+    
   
-  
+    
   
 
 
@@ -70,6 +69,10 @@ I'm a passionate Computer Science student with a love for building things with c
 
 ---
 
+
+
+
+  
 
 
 
